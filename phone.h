@@ -11,3 +11,4 @@ struct Contact
 struct Contact PhoneBook[MAX];
 
 int size;  // store the actual numbers of PhoneBook
+
